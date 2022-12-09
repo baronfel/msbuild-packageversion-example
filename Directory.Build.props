@@ -1,0 +1,5 @@
+<Project>
+    <PropertyGroup>
+        <EnablePackageVersionAttributes>true</EnablePackageVersionAttributes>
+    </PropertyGroup>
+</Project>
